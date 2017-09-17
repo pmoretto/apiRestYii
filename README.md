@@ -6,7 +6,7 @@ Yii2 Advanced Application Template with RESTful API configured. Take a look at h
 ## Install Composer Packages
 You need [Composer](http://getcomposer.org) installed first.
 ```
-composer self-update
+composer update
 ```
 ```
 composer install
